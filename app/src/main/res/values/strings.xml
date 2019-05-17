@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Petagram</string>
-    <string name="title_activity_main2">Main2Activity</string>
+    <string name="form_nombreCompleto">Nombre Completo</string>
+    <string name="date_picker">Fecha de Nacimiento:</string>
+    <string name="form_telefono">Telefono</string>
+    <string name="form_Email">Email</string>
+    <string name="form_descripcionContacto">Descripcion Contacto</string>
+    <string name="toolbar_title">Screen Table</string>
+    <string name="form_boton_label">Siguiente</string>
+    <string name="details_title">Confirmar Datos</string>
+    <string name="param_nombre_completo">nombreCompleto</string>
+    <string name="param_fechaNacimiento">fechaNacimiento</string>
+    <string name="param_Telefono">telefono</string>
+    <string name="param_Email">email</string>
+    <string name="param_Descripcion">descripcion</string>
+    <string name="etiqueta_boton_confirmar">Editar Datos</string>
 </resources>
